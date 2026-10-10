@@ -1,4 +1,4 @@
-Electrical Engineering Projects
+Electrical Engineering Projects.
 
 Welcome to my Electrical Engineering Projects repository.
 
