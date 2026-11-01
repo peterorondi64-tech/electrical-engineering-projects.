@@ -1,0 +1,26 @@
+
+# Circuit Diagram
+
+## Components
+1. Arduino Uno
+2. PIR Motion Sensor
+3. LED
+4. 220 Ohm Resistor
+5. Jumper Wires
+
+## Connections
+
+PIR Sensor:
+- VCC → Arduino 5V
+- GND → Arduino GND
+- OUT → Arduino Digital Pin 2
+
+LED:
+- Arduino Pin 13 → 220 Ohm Resistor → LED Anode (+)
+- LED Cathode (-) → GND
+
+## Operation
+When motion is detected, the Arduino turns ON the LED.
+When motion is not detected, the LED turns OFF.
+
+
